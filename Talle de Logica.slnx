@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="Talle de Logica/Talle de Logica.csproj" />
+  <Project Path="TallerLogicaV2/Ejercicio30/Ejercicio30.csproj" />
+  <Project Path="TallerLogicaV2/Ejercicio35/Ejercicio35.csproj" />
+  <Project Path="TallerLogicaV2/Shared/Shared.csproj" />
 </Solution>
